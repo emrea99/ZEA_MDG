@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_MBRSH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Industry Sector</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_MTART</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get MTART</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_MBRSH</CMPNAME>
+     <SCONAME>EV_MBRSH</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Industry Sector</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_MBRSH</CMPNAME>
+     <SCONAME>ID_CREQUEST</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Change Request</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_MBRSH</CMPNAME>
+     <SCONAME>IO_MODEL</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>MDG Data Model for Access from Non-SAP Standard Code</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_MTART</CMPNAME>
+     <SCONAME>EV_MBRSH</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Industry Sector</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_MTART</CMPNAME>
+     <SCONAME>EV_MTART</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Material type</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_MTART</CMPNAME>
+     <SCONAME>ID_CREQUEST</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Change Request</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_MTART</CMPNAME>
+     <SCONAME>IO_MODEL</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>MDG Data Model for Access from Non-SAP Standard Code</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

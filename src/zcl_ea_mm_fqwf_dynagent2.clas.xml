@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>READ_CR_OBJECTLIST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Reads change request object list</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>READ_MATERIAL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read material data from CR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>READ_WERKS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read werks data from CR</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_CR_OBJECTLIST</CMPNAME>
+     <SCONAME>IO_MODEL</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>MDG Data Model for Access from Non-SAP Standard Code</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_CR_OBJECTLIST</CMPNAME>
+     <SCONAME>IV_CREQUEST_ID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Change Request</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_CR_OBJECTLIST</CMPNAME>
+     <SCONAME>RT_OBJLIST</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ChangeRequest Entity TableType</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_MATERIAL</CMPNAME>
+     <SCONAME>ES_MATERIAL</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Source Structure for PP Mapping</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_MATERIAL</CMPNAME>
+     <SCONAME>IV_CR_NUMBER</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Change Request</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_WERKS</CMPNAME>
+     <SCONAME>ET_WERKS</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table with Plants</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_WERKS</CMPNAME>
+     <SCONAME>IV_CR_NUMBER</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Change Request</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

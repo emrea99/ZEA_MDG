@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>CREATE_CREQUEST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Create Change Request</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>READ_WERKS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>READ WERKS</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CREATE_CREQUEST</CMPNAME>
+     <SCONAME>EV_CREQUEST</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Change Request</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CREATE_CREQUEST</CMPNAME>
+     <SCONAME>IT_WERKS</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table with Plants</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CREATE_CREQUEST</CMPNAME>
+     <SCONAME>IV_MATNR</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Material Number</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_WERKS</CMPNAME>
+     <SCONAME>ET_WERKS</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table with Plants</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_WERKS</CMPNAME>
+     <SCONAME>IV_CR_NUMBER</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Change Request</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_WERKS</CMPNAME>
+     <SCONAME>IV_MATNR</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Material Number</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
